@@ -24,6 +24,8 @@ Application web e-commerce moderne développée avec React.
 
 ## 📱 Design
 Le projet est entièrement responsive et s’adapte à tous les écrans (mobile, tablette, desktop).
+<img width="1892" height="873" alt="acceuil" src="https://github.com/user-attachments/assets/2e8cf5a4-3555-4d91-93b1-c5ce82ae2c77" />
+
 
 ---
 
